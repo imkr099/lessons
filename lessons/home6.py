@@ -35,4 +35,7 @@ hr.setpwr(33)
 hr.setdrbly(55)
 hr.setlck(55)
 hr.setmgc(24)
-print(f'Сила-{hr.getpwr()} \nОборона-{hr.getdrbly()} \nУдача-{hr.getlck()} \nМагия-{hr.getmgc()}')
+print(f'Сила-{hr.getpwr()} \n'
+      f'Оборона-{hr.getdrbly()} \n'
+      f'Удача-{hr.getlck()} \n'
+      f'Магия-{hr.getmgc()}')
